@@ -1,4 +1,6 @@
 # portfolio
-This is a collection of projects to show off my skills.
+## This is a collection of things to show off my skills.
 
-I want to test a commit.
+####-Table of contents-
+*[Project1](https://github.com/drnwltn/portfolio/project1)
+*Project2
