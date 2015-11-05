@@ -1,0 +1,2 @@
+ErrorDocument 404 /justkidding.php
+DirectoryIndex index.php

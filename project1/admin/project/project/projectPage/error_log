@@ -1,0 +1,13 @@
+[13-Jul-2015 18:25:23 UTC] WordPress database error Table 'straypix_wo1150.wp_dlod_strayRELEASEGOALS' doesn't exist for query INSERT INTO `wp_dlod_strayRELEASEGOALS` (`goal_id`, `releaseID`) VALUES (4, 1)
+[13-Jul-2015 18:25:32 UTC] WordPress database error Table 'straypix_wo1150.wp_dlod_strayRELEASEGOALS' doesn't exist for query INSERT INTO `wp_dlod_strayRELEASEGOALS` (`goal_id`, `releaseID`) VALUES (5, 2)
+[13-Jul-2015 18:27:59 UTC] WordPress database error Unknown column 'goal_id' in 'field list' for query INSERT INTO `wp_dlod_RELEASEGOALS` (`goal_id`, `releaseID`) VALUES (6, 1)
+[13-Jul-2015 18:28:05 UTC] WordPress database error Unknown column 'goal_id' in 'field list' for query INSERT INTO `wp_dlod_RELEASEGOALS` (`goal_id`, `releaseID`) VALUES (7, 2)
+[13-Jul-2015 19:11:36 UTC] WordPress database error Unknown column 'releaseGoal_id' in 'field list' for query INSERT INTO `wp_dlod_RELEASEPROJECT` (`releaseGoal_id`, `projectID`) VALUES (3, 1)
+[14-Jul-2015 16:56:11 UTC] WordPress database error Unknown column 'completed' in 'field list' for query UPDATE `wp_dlod_strayReleaseGoals` SET `completed` = 0 WHERE `ID` = 1
+[14-Jul-2015 16:56:16 UTC] WordPress database error Unknown column 'completed' in 'field list' for query UPDATE `wp_dlod_strayReleaseGoals` SET `completed` = 0 WHERE `ID` = 1
+[14-Jul-2015 16:57:27 UTC] WordPress database error Unknown column 'completed' in 'field list' for query UPDATE `wp_dlod_strayReleaseGoals` SET `completed` = 0 WHERE `ID` = 1
+[14-Jul-2015 16:57:32 UTC] WordPress database error Unknown column 'completed' in 'field list' for query UPDATE `wp_dlod_strayReleaseGoals` SET `completed` = 0 WHERE `ID` = 9
+[14-Jul-2015 16:58:25 UTC] WordPress database error Unknown column 'completed' in 'field list' for query UPDATE `wp_dlod_strayReleaseGoals` SET `completed` = 0 WHERE `ID` = 2
+[14-Jul-2015 16:58:41 UTC] WordPress database error Unknown column 'completed' in 'field list' for query UPDATE `wp_dlod_strayReleaseGoals` SET `completed` = 0 WHERE `ID` = 12
+[14-Jul-2015 16:58:44 UTC] WordPress database error Unknown column 'completed' in 'field list' for query UPDATE `wp_dlod_strayReleaseGoals` SET `completed` = 0 WHERE `ID` = 12
+[14-Jul-2015 17:00:22 UTC] WordPress database error Unknown column 'completed' in 'field list' for query UPDATE `wp_dlod_strayReleaseGoals` SET `completed` = 0 WHERE `ID` = 1
